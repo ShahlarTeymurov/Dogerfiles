@@ -218,6 +218,9 @@ body {
 #ourtrainers .box ul li .icon {
   margin: -7px;
 }
+#ourtrainers .box .imgbox img {
+  border-radius: 20px;
+}
 #ourtrainers .wid {
   width: 580px;
 }
