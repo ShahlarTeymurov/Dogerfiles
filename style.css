@@ -486,6 +486,9 @@ body {
 #doggerblog .box .textbox p, #doggerblog .box .textbox h4 {
   margin: 20px 0 0;
 }
+#doggerblog .box .imgbox img {
+  border-radius: 15px;
+}
 #doggerblog .icon {
   color: #869d9d;
 }
