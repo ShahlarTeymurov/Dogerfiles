@@ -4,6 +4,7 @@ body {
 }
 
 .imgbox img {
+  border-radius: 20px;
   width: 100%;
 }
 
@@ -21,9 +22,6 @@ body {
 }
 #carefor .imgbox {
   width: 500px;
-}
-#carefor .imgbox img {
-  border-radius: 20px;
 }
 @media screen and (max-width: 992px) {
   #carefor .textbox {
