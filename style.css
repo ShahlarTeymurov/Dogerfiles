@@ -567,7 +567,7 @@ body {
   margin: 0 0 20px;
 }
 @media screen and (max-width: 992px) {
-  #ourservices {
+  #ourservices h1 {
     font-size: 45px;
   }
   #ourservices h3 {
