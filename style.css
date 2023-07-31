@@ -131,6 +131,7 @@ body {
 #aboutus .imgbox {
   width: 336px;
   overflow: hidden;
+  border-radius: 20px;
 }
 #aboutus .bigicon {
   color: #789b9b;
