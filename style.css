@@ -130,6 +130,7 @@ body {
 }
 #aboutus .imgbox {
   width: 336px;
+  overflow: hidden;
 }
 #aboutus .bigicon {
   color: #789b9b;
