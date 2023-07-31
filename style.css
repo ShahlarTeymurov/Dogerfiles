@@ -76,6 +76,10 @@ body {
   width: 580px;
   padding: 0;
 }
+#welcome .imgbox {
+  overflow: hidden;
+  border-radius: 15px;
+}
 @media screen and (max-width: 992px) {
   #welcome .textbox {
     padding: 5px;
